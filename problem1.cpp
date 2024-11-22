@@ -14,5 +14,5 @@ int main() {
     int days, years;
     cin>>days;
     years2days(days, years);
-    cout<<years<<" "<<days<<endl;
+    cout<<"Years:"<<years<<" Days:"<<days<<endl;
 }
